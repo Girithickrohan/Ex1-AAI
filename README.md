@@ -103,9 +103,9 @@ plt.show()
 ```
 ## Output:
 
-![img]()
+![img](https://github.com/Girithickrohan/Ex1-AAI/blob/main/Screenshot%202026-10-28%20082137.png)
 
-![img]()
+![img](https://github.com/Girithickrohan/Ex1-AAI/blob/main/Screenshot%202026-10-28%20082154.png)
 ## Result:
    Thus a Bayesian Network is generated using Python
 
